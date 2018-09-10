@@ -1,0 +1,7 @@
+H:\SerialPort\ConsoleComPort\ConsoleComPort\bin\Debug\ConsoleComPort.exe.config
+H:\SerialPort\ConsoleComPort\ConsoleComPort\bin\Debug\ConsoleComPort.exe
+H:\SerialPort\ConsoleComPort\ConsoleComPort\bin\Debug\ConsoleComPort.pdb
+H:\SerialPort\ConsoleComPort\ConsoleComPort\obj\Debug\ConsoleComPort.csprojAssemblyReference.cache
+H:\SerialPort\ConsoleComPort\ConsoleComPort\obj\Debug\ConsoleComPort.csproj.CoreCompileInputs.cache
+H:\SerialPort\ConsoleComPort\ConsoleComPort\obj\Debug\ConsoleComPort.exe
+H:\SerialPort\ConsoleComPort\ConsoleComPort\obj\Debug\ConsoleComPort.pdb
